@@ -41,10 +41,7 @@ function checkPassword() {
 function openRandomSite() {
             // List of random websites
             const sites = [
-                "https://about-psi.vercel.app",
-                "https://unblooker-kappa.vercel.app",
-                "https://randomthing-omega.vercel.app",
-                "https://english-delta-jet.vercel.app"
+                "This doesnt work yet"
             ];
 
             // Select a random site
@@ -58,22 +55,7 @@ function openRandomSite() {
 function openRandomSiteU() {
             // List of random websites
             const sites = [
-                "https://asoilkdh.global.ssl.fastly.net/",
-                "https://pizza.frogiee.one/",
-                "https://schoologymathhelp.web.app/",
-                "https://classroom84.global.ssl.fastly.net/",
-                "https://loungef2x.global.ssl.fastly.net/",
-                "https://gobblethemup.vercel.app",
-                "https://asoilkdh.global.ssl.fastly.net/",
-                "https://newsforall.site/",
-                "https://portal.hehege.vpn64.de/",
-                "https://www.apau.shaaaaaaaaaaadow.home64.de/",
-                //"https://charming-capybara-53c2c8.netlify.app/1.8",
-                "https://hamburger.netlify.app/",
-                "https://https://soto-inc.global.ssl.fastly.net/",
-                "https://gointospace.app/",
-                "https://bi.edu.ooguy.com/",
-                "https://mathtutors4school.web.app/"
+                
                 
             
             ];
